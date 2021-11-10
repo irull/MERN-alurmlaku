@@ -1,2 +1,17 @@
 # MERN-alurmlaku
-Alurmlaku webapp with MERN technologi
+
+# Alurmlaku webapp menggunakan MERN technology
+
+> Mongo
+> Express
+> React Js
+> Node Js
+
+# Pages
+
+> Home
+> Journey
+> Community
+> Gallery
+> Tips & Tricks
+> Dashboard
